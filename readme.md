@@ -1,5 +1,4 @@
-# Getgems NFT contracts
-
+# Getgems NFT contrac
 This repository is a collection of contracts for TON blockchain used at getgems.io
 
 ### Including: 
@@ -18,7 +17,8 @@ This repository is a collection of contracts for TON blockchain used at getgems.
 
 ### About EQAIFunA...Q-AR
 Не используйте этот контракт https://tonviewer.com/EQAIFunALREOeQ99syMbO6sSzM_Fa1RsPD5TBoS0qVeKQ-AR для выставления нфт на продажу.
-getgems не несет ответственности за пользователей, которые использую его с целью обмана. Для покупки нфт напрямую из блокчейна необходимо проверять код контракта и правильность заполнения данных контракта.
+TDpt9adA6QidL1B1sy3D8NC717C6L5JxFo
+ не несет ответственности за пользователей, которые использую его с целью обмана. Для покупки нфт напрямую из блокчейна необходимо проверять код контракта и правильность заполнения данных контракта.
 
 Do not use https://tonviewer.com/EQAIFunALREOeQ99syMbO6sSzM_Fa1RsPD5TBoS0qVeKQ-AR to put NFTs for sale.
 getgems is not responsible for users who use it for the purpose of deception. To purchase NFT directly from the blockchain, you need to check the contract code and the correctness of the contract data.
